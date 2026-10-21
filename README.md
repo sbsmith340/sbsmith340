@@ -1,11 +1,11 @@
-### Hi, I'm Shawn 👋
+### Shawn Smith
 
 Security engineer in Atlanta working across **security operations, cloud security, and GRC**. I build detections, automate response, and turn security data into decisions leadership can act on.
 
-- 🔎 **Detect & respond:** Microsoft Sentinel, Defender XDR, KQL, Logic Apps, MITRE ATT&CK
-- ☁️ **Cloud & identity:** Entra ID, Intune, Azure, AWS, Active Directory
-- 📋 **Governance & risk:** NIST CSF, RMF, HIPAA, ISO 27001
-- 🛠️ **Automation:** PowerShell, Python, Jupyter
+- **Detect & respond:** Microsoft Sentinel, Defender XDR, KQL, Logic Apps, MITRE ATT&CK
+- **Cloud & identity:** Entra ID, Intune, Azure, AWS, Active Directory
+- **Governance & risk:** NIST CSF, RMF, HIPAA, ISO 27001
+- **Automation:** PowerShell, Python, Jupyter
 
 **Portfolio:** https://sbsmith340.github.io
 **LinkedIn:** https://www.linkedin.com/in/ssmith1906

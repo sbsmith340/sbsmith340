@@ -18,5 +18,7 @@ Security engineer in Atlanta working across **security operations, cloud securit
 | [vuln-remediation-metrics](https://github.com/sbsmith340/vuln-remediation-metrics) | MTTR and SLA compliance from Defender snapshots ([live demo](https://sbsmith340.github.io/demos/remediation-dashboard.html)) |
 | [powershell-security-toolkit](https://github.com/sbsmith340/powershell-security-toolkit) | Pester-tested inventory, deprovisioning audit, AllSigned rollout |
 | [grc-starter-kit](https://github.com/sbsmith340/grc-starter-kit) | Classification standard, risk register, inventory, IRP, CSF map |
+| [oscal-ato-package](https://github.com/sbsmith340/oscal-ato-package) | SSP and POA&M as NIST OSCAL, validated against 800-53 Rev 5 Moderate |
+| [incident-case-study-bec](https://github.com/sbsmith340/incident-case-study-bec) | MFA-bypass phishing investigation, reproducible from raw logs |
 
 <sub>All project data is synthetic or generated in a personal lab.</sub>

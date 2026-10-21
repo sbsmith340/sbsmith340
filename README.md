@@ -14,6 +14,5 @@ Security engineer in Atlanta working across **security operations, cloud securit
 | Project | What it shows |
 |---|---|
 | [sentinel-phishing-triage](https://github.com/sbsmith340/sentinel-phishing-triage) | SOAR playbook that enriches and scores reported phishing |
-| [kql-detection-library](https://github.com/sbsmith340/kql-detection-library) | ATT&CK-mapped hunting and detection queries with tuning notes |
 
 <sub>All project data is synthetic or generated in a personal lab.</sub>

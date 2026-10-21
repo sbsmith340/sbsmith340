@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Shawn 👋
 
-<!--
-**sbsmith340/sbsmith340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security engineer in Atlanta working across **security operations, cloud security, and GRC**. I build detections, automate response, and turn security data into decisions leadership can act on.
 
-Here are some ideas to get you started:
+- 🔎 **Detect & respond:** Microsoft Sentinel, Defender XDR, KQL, Logic Apps, MITRE ATT&CK
+- ☁️ **Cloud & identity:** Entra ID, Intune, Azure, AWS, Active Directory
+- 📋 **Governance & risk:** NIST CSF, RMF, HIPAA, ISO 27001
+- 🛠️ **Automation:** PowerShell, Python, Jupyter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Portfolio:** https://sbsmith340.github.io
+**LinkedIn:** https://www.linkedin.com/in/ssmith1906
+
+#### Featured work
+| Project | What it shows |
+|---|---|
+| [sentinel-phishing-triage](https://github.com/sbsmith340/sentinel-phishing-triage) | SOAR playbook that enriches and scores reported phishing |
+| [kql-detection-library](https://github.com/sbsmith340/kql-detection-library) | ATT&CK-mapped hunting and detection queries with tuning notes |
+
+<sub>All project data is synthetic or generated in a personal lab.</sub>
